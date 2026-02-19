@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+    <link rel="stylesheet" href="style.css" /> 
+  </head>
+  <body>
+     <img 
+          src= "https://mishpacha.com/wp-content/uploads/2024/05/Iced-Coffee-Boba-R.jpg"/> 
+    <h1>Mining for Boba</h1>
+   
+    <p>You will begin mining for boba.</p>
+  </body>
+</html>
